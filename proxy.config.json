@@ -1,0 +1,9 @@
+
+{
+    "/api/*": {
+        "target": "https://buy-and-sell-f7cab.uc.r.appspot.com",
+        "secure": false,
+        "logLevl": "debug",
+        "changeOrigin": true
+    }
+}
